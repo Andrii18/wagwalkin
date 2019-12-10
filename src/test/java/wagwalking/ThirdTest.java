@@ -45,8 +45,6 @@ public class ThirdTest extends BaseTest {
         String expCellPhoneError = "required";
         Assert.assertEquals(expCellPhoneError, cellPhoneError);
 
-
     }
-
 
 }

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c7300c8-327b-4913-8795-ec5d6b00b610" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tm5Sy0pRNuOGJZHsrMnSAp3i6J" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="wagwalking" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.WagTagTest.WagTagTest">
+    <configuration name="ApplyExistingUserTest.ExistUserAppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wagwalking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="wagwalking.ApplyExistingUserTest" />
+      <option name="METHOD_NAME" value="ExistUserAppTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplyTest.testApply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wagwalking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="wagwalking.ApplyTest" />
+      <option name="METHOD_NAME" value="testApply" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErrorTest.ErrorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wagwalking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="wagwalking.ErrorTest" />
+      <option name="METHOD_NAME" value="ErrorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wagwalking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="wagwalking.LoginTest" />
+      <option name="METHOD_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WagTagTest.WagTagTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wagwalking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="wagwalking.WagTagTest" />
+      <option name="METHOD_NAME" value="WagTagTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WagTagTest.WagTagTest" />
+        <item itemvalue="JUnit.LoginTest.LoginTest" />
+        <item itemvalue="JUnit.ApplyExistingUserTest.ExistUserAppTest" />
+        <item itemvalue="JUnit.ErrorTest.ErrorTest" />
+        <item itemvalue="JUnit.ApplyTest.testApply" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c7300c8-327b-4913-8795-ec5d6b00b610" name="Default Changelist" comment="" />
+      <created>1574052433877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574052433877</updated>
+    </task>
+    <servers />
+  </component>
+</project>
